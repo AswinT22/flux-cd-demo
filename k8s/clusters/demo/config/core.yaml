@@ -8,6 +8,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: kubernetes
-  path: ./k8s/clusters/demo/core
+  path: ./k8s/clusters/core/demo
   prune: true
   validation: client
