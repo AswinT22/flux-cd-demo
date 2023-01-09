@@ -7,7 +7,7 @@ spec:
   interval: 5m
   sourceRef:
     kind: GitRepository
-    name: podinfo
+    name: kubernetes
   path: ./k8s/clusters/demo/config
   prune: true
   validation: client
